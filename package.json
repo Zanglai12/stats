@@ -12,7 +12,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "concurrently": "^6.2.1",
-    "nodemon": "^2.0.12"
+    "@types/node": "^18.15.11",
+    "concurrently": "^6.5.1",
+    "nodemon": "^2.0.22",
+    "typescript": "^5.0.3"
   }
 }
